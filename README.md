@@ -2,9 +2,7 @@
 
 **Data & Strategy Analysis**
 
-**By: Vương**
-
-![Netflix Banner](images/banner.png)
+**By: Tien Vương Nguyen**
 
 ---
 
